@@ -1,5 +1,9 @@
-.App {
-  text-align: center;
+.black-nav{
+  background-color: black;
+  color : white;
+  display: flex;
+  padding-left: 20px;
+  width:100%
 }
 
 .App-logo {
